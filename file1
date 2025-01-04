@@ -2,4 +2,5 @@ Hello world from Git
 Git is better with Github
 This is rebase hands-on in feature branches
 Test checks would be happening in file1 only
+minor changes to file1 from feature branch
 file1 can be changed only by main branch
